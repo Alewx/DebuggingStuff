@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\GitHub\DebuggingStuff\DebuggingStuff\bin\Debug\DebuggingStuff.dll
+C:\Users\Alex\Documents\GitHub\DebuggingStuff\DebuggingStuff\bin\Debug\DebuggingStuff.pdb
+C:\Users\Alex\Documents\GitHub\DebuggingStuff\DebuggingStuff\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alex\Documents\GitHub\DebuggingStuff\DebuggingStuff\bin\Debug\Assembly-CSharp.dll
+C:\Users\Alex\Documents\GitHub\DebuggingStuff\DebuggingStuff\bin\Debug\KSPUtil.dll
+C:\Users\Alex\Documents\GitHub\DebuggingStuff\DebuggingStuff\bin\Debug\UnityEngine.dll
+C:\Users\Alex\Documents\GitHub\DebuggingStuff\DebuggingStuff\bin\Debug\UnityEngine.UI.dll
+C:\Users\Alex\Documents\GitHub\DebuggingStuff\DebuggingStuff\obj\Debug\DebuggingStuff.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\DebuggingStuff\DebuggingStuff\obj\Debug\DebuggingStuff.dll
+C:\Users\Alex\Documents\GitHub\DebuggingStuff\DebuggingStuff\obj\Debug\DebuggingStuff.pdb
